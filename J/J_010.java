@@ -1,5 +1,5 @@
 package J;
-
+//hello
 public class J_010 {
     void j10() {
         double ratio;
